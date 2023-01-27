@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Budget Kita</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_acount_sign_up_here">Don’t have an acount? Sign up here</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_username">Enter username</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_business_name">Enter business name</string>
+    <string name="enter_no_phone">Enter no. phone</string>
+    <string name="enter_email">Enter email</string>
+    <string name="income">Transaction</string>
+    <string name="earned">Earned</string>
+    <string name="spent">Spent</string>
+    <string name="rm_00_00"> Rm 00.00</string>
+    <string name="spent_for_today">Spent for today</string>
+    <string name="earned_for_today">Earned for today</string>
+    <string name="my_budget_so_far">My budget so far</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="view_income_and_expenses_report">View income and expenses report</string>
+    <string name="expenses">Expenses</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">Save</string>
+    <string name="upload_invoice">Upload Invoice</string>
+    <string name="update_income">Update Income</string>
+    <string name="delete_income">Delete Income</string>
+    <string name="delete_expenses">Delete Expenses</string>
+    <string name="update_expenses">Update Expenses</string>
+    <string name="business_name">Business Name</string>
+    <string name="category">Category</string>
+    <string name="total_sales">Total Sales</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="amount">Amount </string>
+    <string name="date">Date: </string>
+    <string name="income_name">Income Name</string>
+    <string name="income_category">Income Category</string>
+    <string name="transaction_id">Transaction ID</string>
+    <string name="select_date">Select Date</string>
+    <string name="expenses_name">Expenses Name</string>
+    <string name="expenses_category">Expenses Category</string>
+    <string name="your_profit_is">Your profit is</string>
+    <string name="logout">Logout</string>
+    <string name="my_profile">My Profile</string>
+    <string name="Hannan">hannan</string>
+    <string name="totalBalance">Total Profit Available Balance</string>
+    <string name="intro">Lets connect all your record to stock and records. So practical!</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="company_name">Company Name</string>
+    <string name="username">Username</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="email">Email</string>
+    <string name="Date_TxtView">StartDate - EndDate</string>
+    <string name="btnFilter">Filter</string>
+    <string name="search">Search</string>
+    <string-array name="income_category">
+        <item>Sales</item>
+        <item>Income</item>
+        <item>Donations</item>
+        <item>Grant</item>
+        <item>Other income</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856121126828",
+    "firebase_url": "https://budgetkita-default-rtdb.firebaseio.com",
+    "project_id": "budgetkita",
+    "storage_bucket": "budgetkita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856121126828:android:5bed191f3a51cb82081409",
+        "android_client_info": {
+          "package_name": "com.example.budgetkitaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856121126828-ij2b8phsmm6h9r4ma0dkt5vknq0cnp7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OgvvuRLp-xOHTmyKtnAD4N_w9BSEyZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856121126828-ij2b8phsmm6h9r4ma0dkt5vknq0cnp7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
